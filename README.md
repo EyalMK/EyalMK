@@ -26,6 +26,4 @@
 
 :thought_balloon: I look for opportunities that challenge me and fulfill my passion, and I seize them where I find them.
 
-I'm currently interested in applying the basics acquired from my first year courses while delving deeper into the fundamentals.
-
-I'm deeply interested in game development as well as developing web projects with Node.JS.
+I'm currently interested in applying the basics acquired from my first year courses while delving deeper into the fundamentals, and I'm deeply interested in game development.
