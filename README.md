@@ -26,4 +26,4 @@
 
 :thought_balloon: I look for opportunities that challenge me and fulfill my passion, and I seize them where I find them.
 
-I'm currently interested in applying the basics acquired from my first year courses while delving deeper into the fundamentals, and I'm deeply interested in game development.
+I'm currently interested in game development and quite fascinated by data structures and algorithms. Moreover, I'm interested in developing programs that would contribute to my IRL routine!
