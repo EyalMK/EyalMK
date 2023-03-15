@@ -14,16 +14,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="500" height="300"/>
-</div>
-
 ### :information_source: About Me
 
-:man_student: I'm a software engineering student at Braude college.
+:man_student: Ssoftware engineering student at Braude college.
 
-:computer: I'm a highly motivated and determined individual with a strong passion for software and coding.
+:computer: Highly motivated and determined individual with a strong passion for software and coding.
 
 :thought_balloon: I look for opportunities that challenge me and fulfill my passion, and I seize them where I find them.
 
-I'm currently interested in game development and quite fascinated by data structures and algorithms. Moreover, I'm interested in developing programs that would contribute to my IRL routine!
+Current peak interests: game development, network programming and webapps to improve QOL.
+
+Open to opportunities. If you like what you see and think my interests fit at your org, send me a message!
