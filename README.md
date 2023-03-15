@@ -16,7 +16,7 @@
 
 ### :information_source: About Me
 
-:man_student: Ssoftware engineering student at Braude college.
+:man_student: Software engineering student at Braude college.
 
 :computer: Highly motivated and determined individual with a strong passion for software and coding.
 
