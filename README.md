@@ -3,9 +3,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/eyal-maklada-71a562226/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=EyalMK&style=flat-square&color=blue" alt=""/>
  </div>
 
@@ -16,7 +13,7 @@
 
 ### :information_source: About Me
 
-:man_student: Software engineering student at Braude college.
+:man_student: Software engineering student.
 
 :computer: Highly motivated and determined individual with a strong passion for software and coding.
 
