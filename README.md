@@ -15,10 +15,4 @@
 
 :man_student: Software engineering student.
 
-:computer: Highly motivated and determined individual with a strong passion for software and coding.
-
-:thought_balloon: I look for opportunities that challenge me and fulfill my passion, and I seize them where I find them.
-
 Current peak interests: game development, system & networking programming, and webapps to improve QOL.
-
-Open to opportunities.
