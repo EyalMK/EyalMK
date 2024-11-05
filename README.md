@@ -13,6 +13,4 @@
 
 ### :information_source: About Me
 
-:man_student: Software engineering student.
-
-Current peak interests: game development, system & networking programming, and webapps to improve QOL.
+:man_student: Software Dev & Software engineering student.
