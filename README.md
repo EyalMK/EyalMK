@@ -13,4 +13,4 @@
 
 ### :information_source: About Me
 
-:man_student: Software Dev & Software engineering student.
+:man_student: Software Engineer
