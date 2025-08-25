@@ -13,4 +13,5 @@
 
 ### :information_source: About Me
 
-:man_student: Software Engineer
+:man_student: B.Sc in Software Engineering
+
